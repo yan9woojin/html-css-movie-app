@@ -1,6 +1,6 @@
 <br />
 <div align="middle">
-  <img width="1000" src="images/screenshot.png">
+  <img width="2056" alt="screenshot" src="https://github.com/yan9woojin/html-css-movie-app/assets/118899658/c9dd9971-708c-4bea-931a-8c7339c925f6">
   <h1>Movies</h1>
   <p>HTML과 CSS로 구현한 영화 사이트</p>
   <div>
